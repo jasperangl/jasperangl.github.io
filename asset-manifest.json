@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.774c0d22.chunk.css",
+    "main.js": "/static/js/main.ac96dcea.chunk.js",
+    "main.js.map": "/static/js/main.ac96dcea.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6a25005e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6a25005e.js.map",
+    "static/js/2.6d0e0ede.chunk.js": "/static/js/2.6d0e0ede.chunk.js",
+    "static/js/2.6d0e0ede.chunk.js.map": "/static/js/2.6d0e0ede.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a6704183e30b3d560e9de393862da612.js": "/precache-manifest.a6704183e30b3d560e9de393862da612.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.774c0d22.chunk.css.map": "/static/css/main.774c0d22.chunk.css.map",
+    "static/js/2.6d0e0ede.chunk.js.LICENSE": "/static/js/2.6d0e0ede.chunk.js.LICENSE",
+    "static/media/HomePage.css": "/static/media/Boston_Back_Bay_reflection_darker.b9cef175.jpg",
+    "static/media/About.css": "/static/media/Profilbild-min1.42a40fe8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a25005e.js",
+    "static/js/2.6d0e0ede.chunk.js",
+    "static/css/main.774c0d22.chunk.css",
+    "static/js/main.ac96dcea.chunk.js"
+  ]
+}
