@@ -1,24 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.774c0d22.chunk.css",
-    "main.js": "/static/js/main.ac96dcea.chunk.js",
-    "main.js.map": "/static/js/main.ac96dcea.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6a25005e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6a25005e.js.map",
-    "static/js/2.6d0e0ede.chunk.js": "/static/js/2.6d0e0ede.chunk.js",
-    "static/js/2.6d0e0ede.chunk.js.map": "/static/js/2.6d0e0ede.chunk.js.map",
+    "main.css": "/static/css/main.5facd0c8.chunk.css",
+    "main.js": "/static/js/main.b9787f00.chunk.js",
+    "main.js.map": "/static/js/main.b9787f00.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c2b20a0b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c2b20a0b.js.map",
+    "static/js/2.d590ed76.chunk.js": "/static/js/2.d590ed76.chunk.js",
+    "static/js/2.d590ed76.chunk.js.map": "/static/js/2.d590ed76.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a6704183e30b3d560e9de393862da612.js": "/precache-manifest.a6704183e30b3d560e9de393862da612.js",
+    "precache-manifest.7d4ea94ed50b9ef98a05d5e2e7e7d405.js": "/precache-manifest.7d4ea94ed50b9ef98a05d5e2e7e7d405.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.774c0d22.chunk.css.map": "/static/css/main.774c0d22.chunk.css.map",
-    "static/js/2.6d0e0ede.chunk.js.LICENSE": "/static/js/2.6d0e0ede.chunk.js.LICENSE",
-    "static/media/HomePage.css": "/static/media/Boston_Back_Bay_reflection_darker.b9cef175.jpg",
-    "static/media/About.css": "/static/media/Profilbild-min1.42a40fe8.jpg"
+    "static/css/main.5facd0c8.chunk.css.map": "/static/css/main.5facd0c8.chunk.css.map",
+    "static/js/2.d590ed76.chunk.js.LICENSE": "/static/js/2.d590ed76.chunk.js.LICENSE",
+    "static/media/App.css": "/static/media/Profilbild-min1.42a40fe8.jpg",
+    "static/media/JA-logo-3.png": "/static/media/JA-logo-3.63ae1930.png",
+    "static/media/Minesweeper.mp4": "/static/media/Minesweeper.36c9ac74.mp4",
+    "static/media/Pyramidsolitaire-final.mp4": "/static/media/Pyramidsolitaire-final.b304513f.mp4",
+    "static/media/Resume.pdf": "/static/media/Resume.3d390fc2.pdf",
+    "static/media/ShipGame.mp4": "/static/media/ShipGame.0fa129c4.mp4",
+    "static/media/Spreadsheet-final.mp4": "/static/media/Spreadsheet-final.f63a13b5.mp4",
+    "static/media/close.svg": "/static/media/close.5d8fa210.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a25005e.js",
-    "static/js/2.6d0e0ede.chunk.js",
-    "static/css/main.774c0d22.chunk.css",
-    "static/js/main.ac96dcea.chunk.js"
+    "static/js/runtime-main.c2b20a0b.js",
+    "static/js/2.d590ed76.chunk.js",
+    "static/css/main.5facd0c8.chunk.css",
+    "static/js/main.b9787f00.chunk.js"
   ]
 }
