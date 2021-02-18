@@ -1,30 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.5facd0c8.chunk.css",
-    "main.js": "/static/js/main.b9787f00.chunk.js",
-    "main.js.map": "/static/js/main.b9787f00.chunk.js.map",
+    "main.css": "/static/css/main.a23b06a0.chunk.css",
+    "main.js": "/static/js/main.aaf6aad4.chunk.js",
+    "main.js.map": "/static/js/main.aaf6aad4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c2b20a0b.js",
     "runtime-main.js.map": "/static/js/runtime-main.c2b20a0b.js.map",
-    "static/js/2.d590ed76.chunk.js": "/static/js/2.d590ed76.chunk.js",
-    "static/js/2.d590ed76.chunk.js.map": "/static/js/2.d590ed76.chunk.js.map",
+    "static/js/2.f2f3b4f5.chunk.js": "/static/js/2.f2f3b4f5.chunk.js",
+    "static/js/2.f2f3b4f5.chunk.js.map": "/static/js/2.f2f3b4f5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7d4ea94ed50b9ef98a05d5e2e7e7d405.js": "/precache-manifest.7d4ea94ed50b9ef98a05d5e2e7e7d405.js",
+    "precache-manifest.c2635bed802046188232183755b02915.js": "/precache-manifest.c2635bed802046188232183755b02915.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.5facd0c8.chunk.css.map": "/static/css/main.5facd0c8.chunk.css.map",
-    "static/js/2.d590ed76.chunk.js.LICENSE": "/static/js/2.d590ed76.chunk.js.LICENSE",
+    "static/css/main.a23b06a0.chunk.css.map": "/static/css/main.a23b06a0.chunk.css.map",
+    "static/js/2.f2f3b4f5.chunk.js.LICENSE": "/static/js/2.f2f3b4f5.chunk.js.LICENSE",
     "static/media/App.css": "/static/media/Profilbild-min1.42a40fe8.jpg",
     "static/media/JA-logo-3.png": "/static/media/JA-logo-3.63ae1930.png",
     "static/media/Minesweeper.mp4": "/static/media/Minesweeper.36c9ac74.mp4",
+    "static/media/MinesweeperImg.jpg": "/static/media/MinesweeperImg.9bf92939.jpg",
     "static/media/Pyramidsolitaire-final.mp4": "/static/media/Pyramidsolitaire-final.b304513f.mp4",
+    "static/media/RecipeImg.png": "/static/media/RecipeImg.36ac1623.png",
     "static/media/Resume.pdf": "/static/media/Resume.3d390fc2.pdf",
     "static/media/ShipGame.mp4": "/static/media/ShipGame.0fa129c4.mp4",
+    "static/media/ShipGameImg2.jpg": "/static/media/ShipGameImg2.3e8a8825.jpg",
+    "static/media/Snake PvP Paper.pdf": "/static/media/Snake PvP Paper.53f810ef.pdf",
+    "static/media/Snake-PvP.jpg": "/static/media/Snake-PvP.3a2fd734.jpg",
+    "static/media/Spreadsheet-final.jpg": "/static/media/Spreadsheet-final.4899dd10.jpg",
     "static/media/Spreadsheet-final.mp4": "/static/media/Spreadsheet-final.f63a13b5.mp4",
     "static/media/close.svg": "/static/media/close.5d8fa210.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c2b20a0b.js",
-    "static/js/2.d590ed76.chunk.js",
-    "static/css/main.5facd0c8.chunk.css",
-    "static/js/main.b9787f00.chunk.js"
+    "static/js/2.f2f3b4f5.chunk.js",
+    "static/css/main.a23b06a0.chunk.css",
+    "static/js/main.aaf6aad4.chunk.js"
   ]
 }
